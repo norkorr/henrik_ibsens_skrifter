@@ -1,7 +1,7 @@
 # Henrik Ibsens skrifter
 Website: [ibsen.uio.no/](https://www.ibsen.uio.no/)
 
-Henrik Ibsens Skrifter (Henrik Ibsen's Writings) is to date the largest editorial project in Norway. The new edition will be a solid base for future Ibsen studies, translations and performances.
+Henrik Ibsens skrifter (Henrik Ibsen's Writings) is to date the largest editorial project in Norway. The new edition will be a solid base for future Ibsen studies, translations and performances.
 
 The edition is a complete historical-critical and commented edition of Henrik Ibsen's writings, printed and unprinted and comprises plays, poems, articles, lectures, letters, drafts and notes.
 
